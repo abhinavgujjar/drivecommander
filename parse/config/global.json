@@ -1,0 +1,11 @@
+{
+    "applications": {
+        "_default": {
+            "link": "commandthenet"
+        }, 
+        "commandthenet": {
+            "applicationId": "QeGfnKdMX0gIn7Bn6oSqb78O8iB6smB8xcyZAopA", 
+            "masterKey": "G6Z4TBfdqGsDJMSNpOQHxKAvSt7bFtVi63qALZxe"
+        }
+    }
+}
